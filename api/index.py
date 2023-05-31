@@ -7,6 +7,7 @@ def home():
     return '''
 <html>
 <head>
+<meta name="a.validate.02" content="IRvV_pLvtxSzYEIrilFKHjdtzFxyP_jyAgZz" />
 <title>Krishna Website</title>
 
 </head>
