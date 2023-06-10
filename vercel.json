@@ -14,6 +14,10 @@
         {
             "src": "/(.*)",
             "dest": "app.py"
+        },
+        {
+            "src": "/templates/(.*)",
+            "dest": "/templates/"
         }
     ]
 }
